@@ -1,7 +1,7 @@
 # GraphPlotter
 
 A small application that plots on screen a graphical representation of a parametric function.
-Developed with Java 11, Maven and JUnit.
+Developed with Java 11, Maven, JUnit and the math expresion parser [mXParser](https://mvnrepository.com/artifact/org.mariuszgromada.math/MathParser.org-mXparser)
 
 * Running The App.
 
