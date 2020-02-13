@@ -12,4 +12,4 @@ Developed with Java 11, Maven and JUnit.
    mvn exec:java -Dexec.mainClass=Main
    ```
    
-   
+![alt text](https://github.com/ramiro-igmun/GraphPlotter/blob/master/img/1.png "Parametric Curve")   
